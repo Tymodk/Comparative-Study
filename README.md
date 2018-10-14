@@ -8,3 +8,5 @@ I've found the following links that pertain to both, so I'll be recording them i
 
 I'll probably draw from a few comparison blogs to draw my own conclusions about these two frameworks. At this moment it seems that people seem to enjoy Laravel a lot more, I'll find out why!
 
+In the meantime I've also looked up how to set both up, I already know how to use Laravel but with Codeigniter there was a lot less documentation. 
+
