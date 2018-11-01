@@ -10,3 +10,12 @@ I'll probably draw from a few comparison blogs to draw my own conclusions about 
 
 In the meantime I've also looked up how to set both up, I already know how to use Laravel but with Codeigniter there was a lot less documentation. 
 
+Found a bit more comparison data about Laravel and CodeIgniter, and some other frameworks but I'll be focusing on those two ofcourse!
+
+<a href="https://medium.com/@asked_io/php-mvc-framework-showdown-7-1-performance-2da52ac9fcba">Php MVC Comps</a>
+
+Found some survey results about Laravel & CodeIgniter as well:
+<a href="https://www.sitepoint.com/best-php-framework-2015-sitepoint-survey-results/">Surveys</a>
+
+
+
