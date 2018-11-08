@@ -16,6 +16,10 @@ Found a bit more comparison data about Laravel and CodeIgniter, and some other f
 
 Found some popularity survey results about Laravel & CodeIgniter as well:
 <a href="https://www.sitepoint.com/best-php-framework-2015-sitepoint-survey-results/">Surveys</a>
+These surveys really show just how popular Laravel is, and that CodeIgniter is falling behind quite a bit.
 
 
+<a href="https://medium.com/@therightsw.com/php-framework-comparison-2017-codeigniter-vs-laravel-vs-yii-vs-cakephp-d2a6d4dd0fb7">Another great write up that rates the frameworks, and some others</a>
+
+Whilst CodeIgniter seems to be doing quite well for itself, it just can't compete with Laravel in the matters that are talked about in this write up. Except for the fact that it's simpler, which I've garnered from other sources as well.
 
