@@ -14,7 +14,7 @@ Found a bit more comparison data about Laravel and CodeIgniter, and some other f
 
 <a href="https://medium.com/@asked_io/php-mvc-framework-showdown-7-1-performance-2da52ac9fcba">Php MVC Comps</a>
 
-Found some survey results about Laravel & CodeIgniter as well:
+Found some popularity survey results about Laravel & CodeIgniter as well:
 <a href="https://www.sitepoint.com/best-php-framework-2015-sitepoint-survey-results/">Surveys</a>
 
 
